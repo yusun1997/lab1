@@ -1,0 +1,11 @@
+Script started on 2016年03月11日 (週五) 11時22分39秒
+]0;F74046129@2015cpp: ~[01;32mF74046129@2015cpp[00m:[01;34m~[00m$ whoami;pwd
+F74046129
+/home/F74046129
+]0;F74046129@2015cpp: ~[01;32mF74046129@2015cpp[00m:[01;34m~[00m$ git config -l
+]0;F74046129@2015cpp: ~[01;32mF74046129@2015cpp[00m:[01;34m~[00m$  gitclonehttps://github.com/<your githubaccount>/lab1.git[1P[C[C[C[C[1@ [C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gity/lab1.gitu/lab1.gits/lab1.gitu/lab1.gitn/lab1.git1/lab1.git9/lab1.git9/lab1.git7/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74046129@2015cpp: ~[01;32mF74046129@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月11日 (週五) 11時24分29秒
