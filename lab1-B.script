@@ -1,0 +1,11 @@
+Script started on 2016年03月12日 (週六) 17時29分56秒
+]0;F74046129@2015cpp: ~/lab1[01;32mF74046129@2015cpp[00m:[01;34m~/lab1[00m$ ls
+lab1-B.cpp  [0m[01;32mlab1-B.out[0m  lab1-B.script  lab1.script  README
+]0;F74046129@2015cpp: ~/lab1[01;32mF74046129@2015cpp[00m:[01;34m~/lab1[00m$ ./lab1-B.out
+Please insert the first number 
+(0 means to exit)
+22
+sh: 1: PAUSE: not found
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 ]0;F74046129@2015cpp: ~/lab1[01;32mF74046129@2015cpp[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 2016年03月12日 (週六) 17時30分26秒

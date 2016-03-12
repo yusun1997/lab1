@@ -1,0 +1,6 @@
+
+HOW TO COMPILE
+g++ -o lab1-B.out lab1-B.cpp
+
+./lab1-B.out
+
